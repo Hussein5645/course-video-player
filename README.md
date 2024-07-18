@@ -20,4 +20,4 @@ To test the app, download the necessary files:
 
 [Download](https://github.com/Hussein5645/videoplayerapp/archive/refs/heads/main.zip)
 
-After downloading, extract the zip file and navigate to the folder "Download this to test app".
+After downloading, extract the zip file and navigate to the folder "course-video-player".
